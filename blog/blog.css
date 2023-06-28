@@ -1,5 +1,17 @@
 /* stylelint-disable selector-list-comma-newline-after */
 
+
+/*---------------------------------------------------------*/
+.pre{
+  background-color: black;
+}
+.ver{
+   background-color: mediumblue;
+}
+.color{
+  color: rgb(206, 8, 8);
+}
+/*---------------------------------------------------------*/
 .blog-header {
   line-height: 1;
   border-bottom: 1px solid #e5e5e5;
